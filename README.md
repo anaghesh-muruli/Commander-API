@@ -3,6 +3,7 @@ API to manage platform commands
 
 ## Topics covered
 a.	Fundamentals of C#
+
 b.	Introduction to .NET
 c.	Application architecture
 d.	CLR and class Library

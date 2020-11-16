@@ -1,6 +1,11 @@
 # Commander-API
 API to manage platform commands
 
+## Tech stack
+a. ASP .NET Core 3.1
+
+b. MS SQL Server 10.0
+
 ## Topics covered
 a.	Fundamentals of C#
 
@@ -16,7 +21,7 @@ f.	Service lifetimes
 
 g.	Creating Domain models 
 
-h.	Migration, DBContext
+h.	Migrations, DBContext
 
 i.	Understanding RabbitMQ Service Bus
 

@@ -1,4 +1,6 @@
-![Build](https://github.com/anaghesh-muruli/Commander-API/workflows/Build/badge.svg)
+![Build and Test](https://github.com/anaghesh-muruli/Commander-API/workflows/Build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/anaghesh-muruli/Commander-API)
+![GitHub top language](https://img.shields.io/github/languages/top/anaghesh-muruli/Commander-API)
 # Commander-API
 API to manage platform commands
 

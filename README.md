@@ -17,7 +17,7 @@ b. MS SQL Server 10.0
 
 ## APIs 
 
-| **SL. No** | **HTTP Method** | **API URL**         | **Description**          | **Success Response**           | **Failure Response **         |
+| **SL. No** | **HTTP Method** | **API URL**         | **Description**          | **Success Response**           | **Failure Response**         |
 |------------|-----------------|---------------------|--------------------------|--------------------------------|-------------------------------|
 | 1          | GET             | api/commands        | Get all Commands         | 200 status code with "OK"      | 400 status code 'BAD REQUEST' |
 | 2          | GET             | api/commands/\{id\} | Get Command by id        | 200 status code with "OK"      | 400 status code 'BAD REQUEST' |

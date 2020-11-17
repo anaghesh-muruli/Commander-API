@@ -70,7 +70,13 @@ namespace Commander.Controllers
                 return NotFound();
             }
 
-            _mapper.Map
+            _mapper.Map(commandUpdateDto, commandModelFromRepo); //??
+
+            _repository.UpdateCommand(commandModelFromRepo);
+
+            _repository.SaveChanges();
+
+            return NoContent();
         }
     }
 }

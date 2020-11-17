@@ -1,3 +1,4 @@
+![Build](https://github.com/anaghesh-muruli/Commander-API/workflows/Build/badge.svg)
 # Commander-API
 API to manage platform commands
 

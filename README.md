@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/anaghesh-muruli/Commander-API)
 ![GitHub top language](https://img.shields.io/github/languages/top/anaghesh-muruli/Commander-API)
 # Commander-API
-API to manage platform commands
+API to manage platform commands which are used most frequently 
 
 ## Index
 1. [Tech stack](#Techstack)
